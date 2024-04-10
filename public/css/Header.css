@@ -1,0 +1,55 @@
+.Header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom:  5px solid #ffbc5b;
+    margin: 10px;
+}
+.HeaderProfile{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+    margin: 10px; 
+    width: 800px;
+    padding: 10px;
+ }
+div > a {
+    color: var(--bg-white, #151414);
+    font-family: IBM Plex Mono;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.21px;
+    text-transform: uppercase;
+    opacity: 0.7;
+    text-decoration: none;
+  }
+  .a {
+    margin-right: 41px;
+  }
+  div > a:hover {
+    color: var(--accent-orange, #ffbc5b);
+    font-family: IBM Plex Mono;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.21px;
+    text-transform: uppercase;
+    opacity: 1;
+  }
+  .title{
+    color: var(--bg-white, #151414);
+    font-family: IBM Plex Mono;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.21px;
+    text-transform: uppercase;
+    margin: 0;
+    text-decoration: none;
+  }

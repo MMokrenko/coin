@@ -1,0 +1,19 @@
+.content{
+    display: flex;
+    flex-direction: row;
+   
+
+}
+.register{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    padding: 30px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}

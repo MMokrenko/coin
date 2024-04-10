@@ -1,0 +1,15 @@
+.Aside {
+    padding: 20px;
+    width: auto;
+    padding-left: 15px;
+    background-color: aliceblue;
+    margin-left: 15px;
+}
+.input{
+    width: 70px;
+    margin: 5px 5px;
+}
+p{
+    padding: 0px;
+    margin: 0px;
+}
